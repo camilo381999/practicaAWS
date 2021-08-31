@@ -1,0 +1,2 @@
+# practicaAWS
+Practica aws pragma
