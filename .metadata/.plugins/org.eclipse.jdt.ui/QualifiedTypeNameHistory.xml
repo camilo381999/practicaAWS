@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBTable"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBHashKey"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBAttribute"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.Builder"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="com.co.pragma.crudbyid.TestContext"/>
+    <fullyQualifiedTypeName name="com.co.pragma.edad.Request"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.AmazonDynamoDB"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.AmazonDynamoDBClientBuilder"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBScanExpression"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.co.pragma.edad.Usuario"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.model.AttributeValue"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

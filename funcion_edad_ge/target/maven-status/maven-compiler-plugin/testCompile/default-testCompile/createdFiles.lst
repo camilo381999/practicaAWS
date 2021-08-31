@@ -1,0 +1,14 @@
+com\co\pragma\edad\TestContext.class
+com\co\pragma\edad\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com\co\pragma\edad\TestContext$1.class
+com\co\pragma\edad\TestUtils$TestJacksonMapperModule.class
+com\co\pragma\edad\TestContext$TestLogger.class
+com\co\pragma\edad\TestUtils$DateTimeDeserializer.class
+com\co\pragma\edad\TestUtils$DynamodbEventMixin.class
+com\co\pragma\edad\LambdaFunctionHandlerTest.class
+com\co\pragma\edad\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com\co\pragma\edad\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\co\pragma\edad\TestUtils$DateTimeSerializer.class
+com\co\pragma\edad\TestUtils$DynamodbEventMixin$RecordMixin.class
+com\co\pragma\edad\TestUtils$1.class
+com\co\pragma\edad\TestUtils.class

@@ -1,0 +1,14 @@
+com\co\pragma\listall\TestContext$TestLogger.class
+com\co\pragma\listall\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com\co\pragma\listall\TestUtils$1.class
+com\co\pragma\listall\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com\co\pragma\listall\TestContext$1.class
+com\co\pragma\listall\TestUtils.class
+com\co\pragma\listall\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\co\pragma\listall\TestUtils$DynamodbEventMixin.class
+com\co\pragma\listall\TestContext.class
+com\co\pragma\listall\TestUtils$TestJacksonMapperModule.class
+com\co\pragma\listall\TestUtils$DateTimeDeserializer.class
+com\co\pragma\listall\TestUtils$DateTimeSerializer.class
+com\co\pragma\listall\TestUtils$DynamodbEventMixin$RecordMixin.class
+com\co\pragma\listall\LambdaFunctionHandlerTest.class
